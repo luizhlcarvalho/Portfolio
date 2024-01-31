@@ -1,3 +1,4 @@
+```SQL
 /*
 
 Limpeza de dados utilizando consultas SQL
@@ -167,3 +168,4 @@ DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 
 ALTER TABLE NashvilleHousing 
 DROP COLUMN SaleDate
+´´´
