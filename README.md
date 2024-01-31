@@ -21,4 +21,4 @@ O arquivo **`Data Cleaning - Nashville Housing.sql`** contem a consulta SQL elab
 - `OVER`(`PARTITION BY`), `PARSENAME`, `SUBSTRING`
 - `Subconsultas`
 
-A base de dados completa pode ser visualizada no arquivo **`Nashville Housing for Data Cleaning`**
+A base de dados completa pode ser visualizada no arquivo **`Nashville Housing for Data Cleaning.xls`**
